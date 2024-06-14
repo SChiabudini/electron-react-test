@@ -1,0 +1,22 @@
+.container{
+    display: inline-block;
+    margin: 0 auto;
+    padding: 1rem auto;
+    height: 50px;
+    line-height: 50px;
+    background-color: #C38685;
+    justify-content: center;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.searchBar{
+    float: left;
+    margin-left: 20px;
+}
+
+.filters{
+    float: right;
+    margin-left: 20px;
+    margin-right: 20px;
+}
